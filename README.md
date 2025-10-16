@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AcridGold
-- 👀 I’m interested in music
-- 🌱 I’m currently learning C/C++
-- 📫 How to reach me: TG:@AcridGold
+- 👋 Hi, I’m Dodik!
+- 👀 I’m absolute ~cinema~ eblan
+- 🌱 I’m currently learning some govno
+- 📫 Contact: TG:@AcridGold
