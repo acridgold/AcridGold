@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 320" width="680" height="320">
+  <defs>
+    <linearGradient id="winGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1e2e"/>
+      <stop offset="100%" style="stop-color:#161622"/>
+    </linearGradient>
+    <linearGradient id="titleBar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2a2a3d"/>
+      <stop offset="100%" style="stop-color:#222233"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="12" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+    <style>
+      .cursor { animation: blink 1.1s step-end infinite; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    </style>
+  </defs>
+
+  <!-- Window shadow + frame -->
+  <rect x="20" y="20" width="640" height="280" rx="10" fill="#000" opacity="0.5" filter="url(#shadow)"/>
+  <rect x="20" y="20" width="640" height="280" rx="10" fill="url(#winGrad)" stroke="#2a2a3d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect x="20" y="20" width="640" height="36" rx="10" fill="url(#titleBar)"/>
+  <rect x="20" y="42" width="640" height="14" fill="url(#titleBar)"/>
+
+  <!-- Traffic lights -->
+  <circle cx="46" cy="38" r="7" fill="#ff5f57"/>
+  <circle cx="68" cy="38" r="7" fill="#febc2e"/>
+  <circle cx="90" cy="38" r="7" fill="#28c840"/>
+
+  <!-- Title text -->
+  <text x="340" y="43" font-family="'SF Mono','Courier New',monospace" font-size="12"
+        fill="#888" text-anchor="middle">lev@acridgold — bash</text>
+
+  <!-- Terminal content -->
+  <!-- Prompt line 1 -->
+  <text x="44" y="82" font-family="'SF Mono','Courier New',monospace" font-size="13">
+    <tspan fill="#00FF9C">acridgold</tspan>
+    <tspan fill="#666">@</tspan>
+    <tspan fill="#00CFFF">nsu</tspan>
+    <tspan fill="#666"> ~ </tspan>
+    <tspan fill="#aaa">❯ </tspan>
+    <tspan fill="#fff">whoami</tspan>
+  </text>
+
+  <!-- Output -->
+  <text x="44" y="108" font-family="'SF Mono','Courier New',monospace" font-size="12" fill="#666"># ── identity ────────────────────────────</text>
+
+  <text x="44" y="128" font-family="'SF Mono','Courier New',monospace" font-size="12">
+    <tspan fill="#00CFFF">name       </tspan>
+    <tspan fill="#555">  </tspan>
+    <tspan fill="#eee">Lev Anisimov</tspan>
+  </text>
+  <text x="44" y="146" font-family="'SF Mono','Courier New',monospace" font-size="12">
+    <tspan fill="#00CFFF">alias      </tspan>
+    <tspan fill="#555">  </tspan>
+    <tspan fill="#eee">AcridGold</tspan>
+  </text>
+  <text x="44" y="164" font-family="'SF Mono','Courier New',monospace" font-size="12">
+    <tspan fill="#00CFFF">location   </tspan>
+    <tspan fill="#555">  </tspan>
+    <tspan fill="#eee">Novosibirsk, Russia 🇷🇺</tspan>
+  </text>
+  <text x="44" y="182" font-family="'SF Mono','Courier New',monospace" font-size="12">
+    <tspan fill="#00CFFF">uni        </tspan>
+    <tspan fill="#555">  </tspan>
+    <tspan fill="#eee">NSU FIT — CS &amp; Engineering</tspan>
+  </text>
+
+  <text x="44" y="202" font-family="'SF Mono','Courier New',monospace" font-size="12" fill="#666">└── english: C1</text>
+
+  <text x="44" y="222" font-family="'SF Mono','Courier New',monospace" font-size="12" fill="#666"># ── roles ────────────────────────────────</text>
+
+  <text x="44" y="242" font-family="'SF Mono','Courier New',monospace" font-size="12">
+    <tspan fill="#febc2e">  🧪 </tspan>
+    <tspan fill="#eee">QA Engineer</tspan>
+    <tspan fill="#555">  — </tspan>
+    <tspan fill="#888">SHIFT Lab, 2026–present</tspan>
+  </text>
+  <text x="44" y="260" font-family="'SF Mono','Courier New',monospace" font-size="12">
+    <tspan fill="#febc2e">  🔧 </tspan>
+    <tspan fill="#eee">Backend Developer</tspan>
+  </text>
+  <text x="44" y="278" font-family="'SF Mono','Courier New',monospace" font-size="12">
+    <tspan fill="#febc2e">  🍺 </tspan>
+    <tspan fill="#eee">vibe: </tspan>
+    <tspan fill="#00FF9C">chill + beer</tspan>
+  </text>
+
+  <!-- Prompt line 2 with blinking cursor -->
+  <text x="44" y="296" font-family="'SF Mono','Courier New',monospace" font-size="13">
+    <tspan fill="#00FF9C">acridgold</tspan>
+    <tspan fill="#666">@</tspan>
+    <tspan fill="#00CFFF">nsu</tspan>
+    <tspan fill="#666"> ~ </tspan>
+    <tspan fill="#aaa">❯ </tspan>
+    <tspan class="cursor" fill="#00FF9C">█</tspan>
+  </text>
+</svg>
