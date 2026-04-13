@@ -28,7 +28,8 @@
 
 **· QA & Testing ·**
 
-<img src="https://skillicons.dev/icons?i=postman,junit" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="48" height="48" title="Chrome DevTools" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" height="48" title="Swagger" />
 
 
