@@ -1,38 +1,16 @@
 <div align="center">
 
-<!-- Header: starry night background via capsule-render -->
 <img src="./header.svg" width="100%" alt="Lev — Backend · QA · NSU"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&height=45&lines=QA+Engineer+%F0%9F%A7%AA;Backend+Developer+%F0%9F%94%A7;NSU+Student+%F0%9F%8E%93;Hackathon+Fighter+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://i.pinimg.com/originals/ef/6c/e8/ef6ce8b5b57a2e47d7dc82fd0a4c7a6c.gif" width="370" alt="lofi chill" />
-&nbsp;&nbsp;
-<img src="https://i.pinimg.com/originals/52/6e/6b/526e6b494e3a48dfc38b7f3e1d4a8d4d.gif" width="370" alt="lofi night rain" />
 
 </div>
 
 ---
 
-```yaml
-❯ whoami
-
-  name:       Lev Anisimov
-  alias:      AcridGold
-  location:   Novosibirsk, Russia 🇷🇺
-  contacts:
-    email:    acridgold@ya.ru
-    tg:       t.me/acridgold
-    github:   github.com/AcridGold
-  uni:        NSU FIT — Computer Science & Engineering
-  roles:
-    - 🧪  QA Engineer (SHIFT Lab, 2026–present)
-    - 🔧  Backend Developer
-    - 🎤  Event Organizer / Media
-  english:    C1
-  vibe:       chill + beer 🍺
-```
+<div align="center">
+<img src="./terminal.svg" width="680" alt="whoami terminal"/>
+</div>
 
 ---
 
@@ -50,9 +28,9 @@
 
 **· QA & Testing ·**
 
-<img src="https://skillicons.dev/icons?i=pytest,postman" />
-<img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="48" height="48" title="JUnit5" />
-<img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" width="48" height="48" title="Swagger" />
+<img src="https://skillicons.dev/icons?i=postman,junit" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" height="48" title="Swagger" />
+
 
 **· Infra & Tools ·**
 
@@ -62,7 +40,7 @@
 
 ### 📬 Contact
 
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/acridgold)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/acridgold_real)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/acridgold)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acridgold@ya.ru)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/acridgold)
