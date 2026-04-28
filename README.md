@@ -79,6 +79,8 @@
 
 ### 📊 GitHub Stats
 
+![GitHub calendar](metrics.plugin.isocalendar.fullyear.svg)
+
 <a href="https://github.com/AcridGold">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AcridGold&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF9C&icon_color=00FF9C&text_color=cccccc&include_all_commits=true&count_private=true"/>
 </a>
