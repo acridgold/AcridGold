@@ -20,7 +20,7 @@
 
 **· Languages ·**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,go" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,js,go" />
 
 **· Backend & DB ·**
 
