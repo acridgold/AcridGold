@@ -35,7 +35,7 @@
 
 **· Infra & Tools ·**
 
-<img src="https://skillicons.dev/icons?i=docker,git,kafka,linux" />
+<img src="https://skillicons.dev/icons?i=docker,git,kafka,linux,kubernetes" />
 
 ---
 
