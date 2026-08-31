@@ -52,8 +52,11 @@
 
 ## 💼 Experience
 
-**🔬 SHIFT Lab** `2026 — present` — QA Engineer
-> Manual & automated testing. Found **10+ critical bugs** in the first month.
+**☀️T-Bank** `2026 - present` - Intern QA Engineer
+> As an Intern QA Engineer, I worked on a service for orchestrating and optimizing the customer journey, built on Kotlin and Spring Boot. I was responsible for manual and automated testing of the service, writing test cases and automated tests to validate business logic across different customer journey scenarios. I tested REST APIs based on OpenAPI specifications, verified data consistency in PostgreSQL, and covered event-driven flows built on Kafka. I used JUnit5 for test automation and Allure for test reporting and documentation.
+
+**🔬 SHIFT Lab** `2025 — 2026` — QA Engineer
+> As a QA Engineer, I worked on testing a corporate HR Telegram bot that uses various metrics to evaluate new employees’ onboarding and adaptation. I performed manual testing and wrote automated tests to ensure the bot’s reliability, covering both functional scenarios and API-level checks. I used Java, JUnit5, and Mockito for test automation, PostgreSQL for validating data at the database level, and Postman for testing API endpoints.
 
 **🏦 Sberbank** `2025 — 2026` — Campus Ambassador at NSU
 > Organized events for up to **500 people**, promoting company products to the student audience.
