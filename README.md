@@ -52,7 +52,7 @@
 
 ## 💼 Experience
 
-**☀️T-Bank** `2026 - present` - Intern QA Engineer
+**☀️T-Bank** `2026 - 2026` - Intern QA Engineer
 > As an Intern QA Engineer, I worked on a service for orchestrating and optimizing the customer journey, built on Kotlin and Spring Boot. I was responsible for manual and automated testing of the service, writing test cases and automated tests to validate business logic across different customer journey scenarios. I tested REST APIs based on OpenAPI specifications, verified data consistency in PostgreSQL, and covered event-driven flows built on Kafka. I used JUnit5 for test automation and Allure for test reporting and documentation.
 
 **🔬 SHIFT Lab** `2025 — 2026` — QA Engineer
